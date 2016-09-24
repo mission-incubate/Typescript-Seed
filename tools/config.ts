@@ -1,4 +1,4 @@
-import {GenConfig} from './config/gen.config';
+import { ProjectConfig } from './config/project.config';
 
-const config: GenConfig = new GenConfig();
+const config: ProjectConfig = new ProjectConfig();
 export default config;

@@ -14,14 +14,12 @@
     "noImplicitAny": true,
     "noImplicitReturns": true,
     "noImplicitUseStrict": false,
-    "noFallthroughCasesInSwitch": true
+    "noFallthroughCasesInSwitch": true,
+    "types": []
   },
   "exclude": [
     "node_modules",
-    "dist",
-    "typings/index.d.ts",
-    "typings/modules",
-    "tools/generator/code"
+    "dist"
   ],
   "compileOnSave": false
 }

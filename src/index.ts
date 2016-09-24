@@ -1,3 +1,4 @@
+import { ApplicationConfig } from './AppSettings';
 import { Bootstrap } from './Bootstrap';
 if (process.env.NODE_ENV !== 'production') {
     debugger;
